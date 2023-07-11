@@ -1,2 +1,2 @@
 # Linux
-Linux notes 
+Notes on Linux concepts
